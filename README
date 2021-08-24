@@ -1,5 +1,7 @@
 Hostloc新帖通知QQ版
 
+本文使用机器人为 [go-cqhttp] (https://github.com/Mrs4s/go-cqhttp)
+
 原作者 https://github.com/w2r/hostloc2tg
 
 通知到个人修改 Hostloc-Q-Bot.py 第32行 /send_group_msg?group_id= 为 /send_private_msg?user_id=
